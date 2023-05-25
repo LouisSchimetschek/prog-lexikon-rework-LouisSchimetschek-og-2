@@ -24,4 +24,11 @@ export default [
                 author: 'Fabian Rauch',
                 github: 'https://github.com/caitoor/ig3_prog3_lexikon',
         },
+        {
+                title: "Internet",
+                folder: 'Internet',
+                description: "Das Internet ist ein wichtiger Bestandteil als Plattform für die Entwicklung und den Betrieb von Webanwendungen und Websites dient. Programmierer verwenden das Internet, um auf Ressourcen und Tools zuzugreifen, die sie bei der Entwicklung von Softwareanwendungen benötigen.",
+                author: 'Louis Schimetschek',
+                tags: ["Internet", "Browser", "Software"]
+        },
 ];
