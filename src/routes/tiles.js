@@ -1,6 +1,6 @@
 export default [
     {
-            title: 'Git',
+            title: 'Gitt',
             folder: 'git',
             description: 'Einführung in das Versionskontrollsystem Git',
             tags: ['Versionskontrolle', 'Softwareentwicklung', 'Collaboration'],
